@@ -1,0 +1,14 @@
+E:\Artificial Intelligence\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CoreCompileInputs.cache
+E:\Artificial Intelligence\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe.config
+E:\Artificial Intelligence\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe
+E:\Artificial Intelligence\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.pdb
+E:\Artificial Intelligence\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.exe
+E:\Artificial Intelligence\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.pdb
+F:\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe.config
+F:\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe
+F:\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.pdb
+F:\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csprojAssemblyReference.cache
+F:\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CoreCompileInputs.cache
+F:\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.exe
+F:\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.pdb
+E:\Artificial intelligence\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csprojResolveAssemblyReference.cache
